@@ -1,0 +1,7 @@
+b lists all buildings
+r prints directions for the shortest route between any two buildings
+q quits the program
+m prints a menu of all commands
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Unknown building: [0]
+Unknown building: [abc]First building id/name, followed by Enter: Second building id/name, followed by Enter: Unknown building: [cde]
+Unknown building: [10000000]
